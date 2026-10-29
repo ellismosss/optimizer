@@ -1,5 +1,5 @@
 {
   "version": "1.1.0",
-  "url": "https://ellismoss.gumroad.com/l/optimizer",
+  "url": "https://everymachine.gumroad.com/l/optimizer",
   "_source": "Source lives in the private repo ellismosss/optimizer-src. This repo stays public and unchanged — it's the live version-check endpoint fetched by installed copies, parsed for version/url only."
 }
